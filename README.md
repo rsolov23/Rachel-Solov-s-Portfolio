@@ -20,4 +20,4 @@ https://rsolov23.github.io/Portfolio/
 
 ### Contributors
 - Rachel Solov
-- My fantastic team at UT, Trilogy, and 2U. Special shout out to Sean, Donte, Brendan, Megan, Tori, Mike, Bradley and all my classmates.
+- Special shout out to Sean, Donte, Brendan, Megan, Tori, Mike, Bradley and all my classmates.
