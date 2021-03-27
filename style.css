@@ -88,36 +88,13 @@ li:hover{
 .about-me
  {
 
-    padding-top: 75px;
+    padding-top: 65px;
 }
-.flex-row {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    align-items: center;
-    flex-direction: space-around;
-  }
-
-
-
-h2 {
-    text-align: left;
-    margin-left: 50px;
-    margin-bottom: 200px;
-    margin-top: 25px;
-    border-style: 5px solid teal;
-    
+.bio {
+ text-align: justify;
+ margin-left: 20%;
+ margin-bottom: 5%;
 }
-
-/* .bio {
-
-    width: 100%;
-    text-align: center;
-    border-bottom-width: 80.5%;
-    font-size: 18px;
-    line-height: 1.2;
-    padding-bottom: inherit;
-} */
 
 .flex-container {
     display: flex;
@@ -126,26 +103,32 @@ h2 {
     align-items: center;
   }
  
-  .flex-container img {
+  .project1 img {
     border: 5px solid blueviolet;
-    height: 150px;
-    width: 450px;
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
     
  }
 
+ .project2 img {
+    border: 5px solid blueviolet;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
 
-.size-df {
-    width: 200px;
-    height: 200px;
-}
+ }
 
-/* .flex-row {
+.flex-row {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
     padding-bottom: 25px;
 
-  } */
+  } 
+  .section-title {
+      padding-top: 150px;
+  }
 
 
 
