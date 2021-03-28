@@ -73,7 +73,7 @@ li:hover {
   padding: 75px;
   background-image: url("./images/bg2.jpeg");
   background-repeat: round;
-  border: 5px solid blueviolet;
+  /* border: 5px solid blueviolet; */
 }
 /* h2 text styles*/
 h2 {
