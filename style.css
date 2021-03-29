@@ -71,7 +71,7 @@ li:hover {
 /* image styles*/
 .hero {
   padding: 75px;
-  background-image: url("./images/bg2.jpeg");
+  background-image: url("./images/pexels-photo-255379.jpeg");
   background-repeat: round;
   /* border: 5px solid blueviolet; */
 }
@@ -136,7 +136,7 @@ footer {
   padding-left: 1000px;
 }
 
-/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+/* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER
 @media screen and (max-width: 980px) {
   .title {
     width: 100%;
@@ -184,7 +184,7 @@ footer {
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
-@media screen and (max-width: 768px) {
+/* @media screen and (max-width: 768px) {
   section {
     padding: 30px 15px;
   }
@@ -200,7 +200,7 @@ footer {
     justify-content: center;
   }
 
-  .project-img .hero-img {
+  .project-img {
     flex: 0 32%;
     margin-right: 0;
     margin-top: 15px;
@@ -213,7 +213,7 @@ footer {
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
-@media screen and (max-width: 575px) {
+/* @media screen and (max-width: 575px) {
   .section-title {
     width: 95%;
   }
@@ -229,4 +229,4 @@ footer {
   .about-me > * {
     flex: 0 100%;
   }
-}
+} */ */ */
