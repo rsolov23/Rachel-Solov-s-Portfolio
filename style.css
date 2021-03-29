@@ -69,12 +69,9 @@ li:hover {
   background-color: lightcoral;
 }
 /* image styles*/
-/* .hero {
-  /* padding: 75px; */
-/* background-image: url("./images/pexels-photo-255379.jpeg"); 
-  background-repeat: round; */
-/* border: 5px groove rgba(70, 10, 236, 0.5);
-}  */
+.hero {
+  border: 5px groove rgba(70, 10, 236, 0.5);
+}
 
 /* h2 text styles*/
 h2 {
