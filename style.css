@@ -69,12 +69,13 @@ li:hover {
   background-color: lightcoral;
 }
 /* image styles*/
-.hero {
-  padding: 75px;
-  background-image: url("./images/pexels-photo-255379.jpeg");
-  background-repeat: round;
-  /* border: 5px solid blueviolet; */
-}
+/* .hero {
+  /* padding: 75px; */
+/* background-image: url("./images/pexels-photo-255379.jpeg"); 
+  background-repeat: round; */
+/* border: 5px groove rgba(70, 10, 236, 0.5);
+}  */
+
 /* h2 text styles*/
 h2 {
   font-weight: bold;
@@ -137,7 +138,7 @@ footer {
 }
 
 /* MEDIA QUERY FOR TABLETS AND SMALLER */
- @media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   section {
     padding: 30px 15px;
   }
@@ -166,7 +167,7 @@ footer {
 }
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
- @media screen and (max-width: 575px) {
+@media screen and (max-width: 575px) {
   .section-title {
     width: 95%;
   }
@@ -182,4 +183,4 @@ footer {
   .about-me > * {
     flex: 0 100%;
   }
-} 
+}

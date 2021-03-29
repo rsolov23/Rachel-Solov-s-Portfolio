@@ -1,8 +1,8 @@
-  ![Screenshot](/Images/screenshot.png)
+![Screenshot](/Images/screenshot.png)
 
-  # Rachel Solov's Portfolio
+# Rachel Solov's Portfolio
 
-  ## Table of Contents
+## Table of Contents
 
 - [Description](#description)
 - [Github Profile](#github-profile)
@@ -10,21 +10,18 @@
 - [Contributors](#contributors)
 
 ### Description
+
 This is my Portfolio for Module 2 Weekly Challenge.
 
 ### Github Profile
 
-
-
-
-
-
-
-
-
+https://github.com/rsolov23/
 
 ### Link to my Portfolio
 
+https://rsolov23.github.io/Portfolio/
+
 ### Contributors
+
 - Rachel Solov
 - Special shout out to Sean, Donte, Brendan, Megan, Tori, Mike, Bradley and all my classmates.
