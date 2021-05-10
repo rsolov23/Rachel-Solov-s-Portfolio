@@ -19,7 +19,7 @@ https://github.com/rsolov23/
 
 ### Link to my Portfolio
 
-https://rsolov23.github.io/Portfolio/
+https://rsolov23.github.io/Rachel-s-Portfolio/
 
 ### Contributors
 
