@@ -1,4 +1,4 @@
-![Screenshot](/Images/screenshot.png)
+![Screenshot](./assets/Images/screenshot.jpg)
 
 # Rachel Solov's Portfolio
 
