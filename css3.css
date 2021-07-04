@@ -1,4 +1,4 @@
-* {
+ * {
   box-sizing: border-box;
 }
 
@@ -93,7 +93,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("./develop/assets/Images/Waiau.jpg"),
+  background-image: url("./Images/Waiau.jpg"),
     linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
@@ -230,24 +230,27 @@ main {
 }
 
 /* portfolio project images */
+.jot-it {
+  background-image: url("./Images/Rangitikei\ \(1\).jpg");
+}
 .run-buddy {
-  background-image: url("./develop/assets/Images/Ngaruroro.jpg");
+  background-image: url("./Images/Ngaruroro.jpg");
 }
 
 .led-wall {
-  background-image: url("./Reuss.jpg");
+  background-image: url("./Images/Reuss.jpg");
 }
 
 .react-calc {
-  background-image: url("./Vorderrhein.jpg");
+  background-image: url("./Images/Vorderrhein.jpg");
 }
 
 .pastel-puzzles {
-  background-image: url("./Hinterrhein.jpg");
+  background-image: url("./Images/Hinterrhein.jpg");
 }
 
 .surf-report {
-  background-image: url("./Mohaka.jpg");
+  background-image: url("./Images/Mohaka.jpg");
 }
 
 /* end portfolio project images */
@@ -304,4 +307,4 @@ main {
     flex-direction: column;
     align-items: flex-start;
   }
-}
+} */
