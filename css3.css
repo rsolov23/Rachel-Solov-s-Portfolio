@@ -93,7 +93,7 @@ main {
 
 .hero-banner {
   background: rgb(68, 88, 120);
-  background-image: url("./Images/Waiau.jpg"),
+  background-image: url("./assets/Images/Waiau.jpg"),
     linear-gradient(180deg, var(--secondary) 0%, var(--primary) 100%);
   background-size: cover;
   background-position: center;
@@ -231,26 +231,26 @@ main {
 
 /* portfolio project images */
 .jot-it {
-  background-image: url("./Images/Rangitikei\ \(1\).jpg");
+  background-image: url("./assets/Images/Rangitikei\ \(1\).jpg");
 }
 .run-buddy {
-  background-image: url("./Images/Ngaruroro.jpg");
+  background-image: url("./assets/Images/Ngaruroro.jpg");
 }
 
 .led-wall {
-  background-image: url("./Images/Reuss.jpg");
+  background-image: url("./assets/Images/Reuss.jpg");
 }
 
 .react-calc {
-  background-image: url("./Images/Vorderrhein.jpg");
+  background-image: url("./assets/Images/Vorderrhein.jpg");
 }
 
 .pastel-puzzles {
-  background-image: url("./Images/Hinterrhein.jpg");
+  background-image: url("./assets/Images/Hinterrhein.jpg");
 }
 
 .surf-report {
-  background-image: url("./Images/Mohaka.jpg");
+  background-image: url("./assets/Images/Mohaka.jpg");
 }
 
 /* end portfolio project images */
