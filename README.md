@@ -30,4 +30,4 @@ If you are interested in fixing issues directly to the code base, please referen
 
 Copyright (c) 2021 Rachel Solov
 
-Licensed under the [MIT License](https://github.com/lexcraw4d/SEO/blob/master/LICENSE)
+Licensed under the [MIT License](https://github.com/rsolov23/SEO/blob/master/LICENSE)
