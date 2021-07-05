@@ -1,25 +1,22 @@
-# Gaminator
+# **Rachel Solov's Portfolio**
 
 #### Table of Contents
 
 - [About](#About)
-- [Usage](#Usage)
 - [Contribution](#Contribution)
 - [License](#License)
 
-# About
+# _About_
 
 My Portfolio showcasing my work
 
-# Usage
-
-##### Visual Studio Code
+##### _Visual Studio Code_
 
 [Visual Studio Code](https://code.visualstudio.com/) is an lightning fast FREE open-source editor designed by [Microsoft](https://www.microsoft.com/en-us/) with developers in mind. Visual Studio code allows developers to easily apply the edit-build-debug cycle, resulting in more productivity on your ideas.
 
 [Visual Studio Code](https://code.visualstudio.com/) brings all that you need as a developer, such as: debugging, instant editing results, customization specifically designed for your preference, hundreds of languages, extensions, version control, and more all at your fingertips!
 
-# Contribution
+# _Contribution_
 
 Feel free to contribute to this project in any of the following ways:
 
@@ -29,7 +26,7 @@ Feel free to contribute to this project in any of the following ways:
 
 If you are interested in fixing issues directly to the code base, please reference the [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute) article.
 
-# License
+# _License_
 
 Copyright (c) 2021 Rachel Solov
 
